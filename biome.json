@@ -68,7 +68,7 @@
         "noDangerouslySetInnerHtml": "off"
       },
       "style": {
-        "noInferrableTypes": "error",
+        "noInferrableTypes": "er2ror",
         "noNegationElse": "error",
         "noParameterAssign": "error",
         "noUnusedTemplateLiteral": "error",
